@@ -16,6 +16,14 @@ moduleName = InputBox("Module Name:")
 codePool = InputBox("CodePool:")
 moduleVersion = InputBox("Module version:")
 
+If packageName = "" Or moduleName = "" Or codePool = "" Then
+	WScript.Quit
+End If
+
+If moduleVersion = "" Then
+	moduleVersion = "1.0.0"
+End If
+
 xmlString = "<?xml version=" & chr(34) & "1.0" & chr(34) & "?>" & vbCr & _
 "<config>" & vbCr & _
 VBTab & "<modules>" & vbCr & _
