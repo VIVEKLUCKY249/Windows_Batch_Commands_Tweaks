@@ -1,5 +1,5 @@
 ## Fav/Popular Games download links:
-### Call of Duty: Modern Warfare 2 (2009)
+### Call of Duty: Modern Warfare 2 (2009) - PC / Windows (10, 11) x64
 ####
 https://www.mediafire.com/file/0i5imz661a8d8gi/cm2-downloadpcgames88.com.part09.rar/file  
 https://www.mediafire.com/file/1cchgauqrm02afc/cm2-downloadpcgames88.com.part14.rar/file  
